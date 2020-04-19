@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis using Machine Learning
 
-In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.numeric data.
+In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.
 
 For the image analysis of a Invasive Ductal Carcinoma (IDC), our goal is to create a model that predicts whether the image represents cancerous cells (1) or non-cancerous cells (0). 
 
