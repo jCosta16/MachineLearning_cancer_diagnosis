@@ -1,6 +1,6 @@
 # Breast Cancer Diagnostics using Machine Learning
 
-In this project we whish to compare machine learning models on numeric data, of a fine needle aspirate (FNA) of a breast mass and Images of Invasive Ductal Carcinoma (IDC), to decide which tool has the highest accuracy in automated cancer classification.
+In this project we whish to apply machine learning models to numeric data, of a fine needle aspirate (FNA) of a breast mass and Images of Invasive Ductal Carcinoma (IDC), to decide which tool has the highest accuracy in automated cancer classification.
 
 For the image analysis, our aim is to create a model that predicts whether the image represents cancerous cells (1) or non-cancerous cells (0). 
 For the numeric data, the predictor category is benign versus malignant, based on features such as the cell area, smoothness, texture, etc.
