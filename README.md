@@ -1,4 +1,4 @@
-# Breast Cancer Diagnostics using Machine Learning
+# Breast Cancer Diagnosis using Machine Learning
 
 In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.numeric data.
 
