@@ -17,3 +17,13 @@ Data Sets:
 * scikit-learn
 * keras
 * Matplotlib
+
+## Some Visualizations
+### Features
+![](/images/01_best_features_correlation.png)
+![](/images/03_best_features_vs_diagnosis1.png)
+### Oversampling
+![](/images/08_oversampling_visualization2.png)
+### Models
+![](/images/11_model_visualization3_GB_EM.png)
+
