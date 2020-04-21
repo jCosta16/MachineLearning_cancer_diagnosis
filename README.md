@@ -19,7 +19,7 @@ Data Sets:
 * Matplotlib
 
 ## Some Visualizations
-### Features
+### Feature Engineering
 ![](/images/01_best_features_correlation.png)
 ![](/images/03_best_features_vs_diagnosis1.png)
 ### Oversampling
