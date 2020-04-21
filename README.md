@@ -11,3 +11,9 @@ Currently, our numeric data classifier has an accuracy of ~96% and our image cla
 Data Sets: 
 * [Numeric Values - (FNA)](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 * [Image Dataset - (IDC)](https://www.kaggle.com/paultimothymooney/breast-histopathology-images)
+
+## Applied Technologies
+* Python
+* scikit-learn
+* keras
+* Matplotlib
