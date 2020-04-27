@@ -1,5 +1,7 @@
 # Breast Cancer Diagnosis using Machine Learning
 
+Medical studies use information to support diagnoses and treatments. With each exam generating a substantial amount of data, Machine Learning could be a powerful tool to assist in diagnoses and projections for both doctors and researchers.
+
 In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.
 
 For the image analysis of a Invasive Ductal Carcinoma (IDC), our goal is to create a model that predicts whether the image represents cancerous cells (1) or non-cancerous cells (0). 
