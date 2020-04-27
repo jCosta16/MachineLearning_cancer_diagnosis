@@ -1,1 +1,0 @@
-# quaranteam.github.io
