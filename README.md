@@ -1,4 +1,6 @@
-# Breast Cancer Diagnosis using Machine Learning
+# Using Machine Learning in Cancer Diagnostics
+
+Medical studies use data to aid in diagnostics and finding appropriate treatment options. With medical exams generating substantial amounts of data, Machine Learning is a powerful tool to assist in diagnostics, for both doctors and medical researchers.
 
 In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.
 
@@ -17,3 +19,13 @@ Data Sets:
 * scikit-learn
 * keras
 * Matplotlib
+
+## Some Visualizations
+### Feature Engineering
+![](/images/01_best_features_correlation.png)
+![](/images/03_best_features_vs_diagnosis1.png)
+### Oversampling
+![](/images/08_oversampling_visualization2.png)
+### Models
+![](/images/11_model_visualization3_GB_EM.png)
+
