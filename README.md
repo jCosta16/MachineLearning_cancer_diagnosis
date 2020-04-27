@@ -1,6 +1,6 @@
-# Breast Cancer Diagnosis using Machine Learning
+# Using Machine Learning in Cancer Diagnostics
 
-Medical studies use information to support diagnoses and treatments. With each exam generating a substantial amount of data, Machine Learning could be a powerful tool to assist in diagnoses and projections for both doctors and researchers.
+Medical studies use data to aid in diagnostics and finding appropriate treatment options. With medical exams generating substantial amounts of data, Machine Learning is a powerful tool to assist in diagnostics, for both doctors and medical researchers.
 
 In this project our objective is to apply machine learning models to two different data types in order to verify which tool has the highest accuracy in automated cancer classification.
 
