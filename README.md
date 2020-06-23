@@ -20,6 +20,23 @@ Data Sets:
 * keras
 * Matplotlib
 
+## Steps
+### Numeric Data
+* Step 1 - Feature Selection and Oversampling
+  - Using SelectKBest from scikit-learn selected 10 most relevant features from the 32 in the numeric dataset.
+  - To improve the slightly imbalance and small data, oversampled the data using the ADASYN model.
+
+* Step 2 - Machine Learn Models and Visualizations
+  - Create 5 diferent Machine Learning models to verify the most accurate for the given data.
+    . Logistic Regression
+    . SVC
+    . Neural Network
+    . Randon Forest
+    . Gradient Boosting
+  - Create an Ensemble Vote Classifier aiming to improve the results.
+  - Using Matplotlib create visualizations for Feature Selection and Oversampling
+  - With the PCA library and Matplotlib create a 2 dimension visualization for the Machine Learn Models.
+
 ## Some Visualizations
 ### Feature Engineering
 ![](/images/01_best_features_correlation.png)
